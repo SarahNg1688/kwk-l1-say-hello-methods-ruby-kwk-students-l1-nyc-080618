@@ -4,4 +4,6 @@ end
 Say_hello("Vivvy") 
 Say_hello("Lizzy")
 def Say_hello 
-  puts "Hello Ruby Programer"
+  puts "Hello Ruby Programer!"
+end
+Say_hello 
